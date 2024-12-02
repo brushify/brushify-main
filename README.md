@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- prettier-ignore-start -->
+# Brushify
 
-## Getting Started
+![Brushify Logo](/public/logos/logo.svg)
 
-First, run the development server:
+Brushify is a free and open-source design tool that aims to make professional design accessible to everyone. Think of it as a powerful alternative to Canva, but completely free and built in public.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚧 Development Status
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Brushly is currently in active development and not yet ready for contributions. The core features and architecture are being built, and once it reaches a stable state for collaboration, we'll open it up for community contributions.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Vision
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🎨 Professional design tools for everyone
+- 💫 Intuitive and easy-to-use interface
+- 🚀 Free and open-source forever
+- ⚡️ Fast and reliable performance
+- 🛠️ Modern web technologies
 
-## Learn More
+## ⏳ Stay Updated
 
-To learn more about Next.js, take a look at the following resources:
+While we're building Brushly, you can:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Follow the development journey on [X (or, Twitter)](https://x.com/intent/user?screen_name=zaidahmad25)
+- Watch this repository to get notified when we're ready for contributions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT © 2024 Brushify
+<!-- prettier-ignore-end -->
