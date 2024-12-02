@@ -9,7 +9,7 @@ const rubik = Rubik({
 
 export const metadata: Metadata = {
     title: "Brushify",
-    description: "Open source alternative to Canva",
+    description: "Open source graphic design tool",
 };
 
 export default function RootLayout({
