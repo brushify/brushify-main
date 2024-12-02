@@ -55,7 +55,7 @@ export default function Navbar() {
                                     Features
                                 </a>
                                 <Link
-                                    href='https://github.com'
+                                    href='https://github.com/brushify/brushify-main'
                                     target='_blank'
                                     rel='noopener noreferrer'
                                     className={`font-medium transition-colors flex items-center gap-2 ${
@@ -98,7 +98,7 @@ export default function Navbar() {
                             <span className='text-xs mt-1'>Features</span>
                         </a>
                         <a
-                            href='https://github.com'
+                            href='https://github.com/brushify/brushify-main'
                             target='_blank'
                             rel='noopener noreferrer'
                             className='flex flex-col items-center p-2 text-gray-700 hover:text-blue-600'
