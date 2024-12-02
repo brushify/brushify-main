@@ -80,7 +80,7 @@ export function Features() {
 
                     <div className='bg-white border border-blue-100 p-10 rounded-2xl shadow-lg hover:shadow-xl transition-shadow'>
                         <h3 className='text-2xl font-bold text-[#03045e] mb-8'>
-                            Why Choose Brushly?
+                            Why Choose Brushify?
                         </h3>
                         <ul className='space-y-6'>
                             {[

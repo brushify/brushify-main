@@ -7,7 +7,7 @@ Brushify is a free and open-source design tool that aims to make professional de
 
 ## 🚧 Development Status
 
-Brushly is currently in active development and not yet ready for contributions. The core features and architecture are being built, and once it reaches a stable state for collaboration, we'll open it up for community contributions.
+Brushify is currently in active development and not yet ready for contributions. The core features and architecture are being built, and once it reaches a stable state for collaboration, we'll open it up for community contributions.
 
 ## 🎯 Vision
 
@@ -19,7 +19,7 @@ Brushly is currently in active development and not yet ready for contributions. 
 
 ## ⏳ Stay Updated
 
-While we're building Brushly, you can:
+While we're building Brushify, you can:
 
 - Follow the development journey on [X (or, Twitter)](https://x.com/intent/user?screen_name=zaidahmad25)
 - Watch this repository to get notified when we're ready for contributions

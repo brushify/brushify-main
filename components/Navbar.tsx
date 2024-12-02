@@ -38,7 +38,7 @@ export default function Navbar() {
                                     }
                                     width={150}
                                     height={150}
-                                    alt='Brushly'
+                                    alt='Brushify'
                                     className='hover:opacity-80 transition-opacity'
                                 />
                             </div>

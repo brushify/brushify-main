@@ -18,7 +18,7 @@ export function Hero() {
                             src='/logos/logo-light.svg'
                             width={200}
                             height={200}
-                            alt='Brushly'
+                            alt='Brushify'
                             className='md:hidden pb-8'
                         />
                     </div>
@@ -57,7 +57,7 @@ export function Hero() {
                             <div className='rounded-xl overflow-hidden bg-transparent'>
                                 <Image
                                     src='/etu.png'
-                                    alt='Brushly UI Interface'
+                                    alt='Brushify UI Interface'
                                     className='w-full h-auto'
                                     width={800}
                                     height={500}
